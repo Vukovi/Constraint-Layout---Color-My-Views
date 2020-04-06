@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Color My Views - Constraint Layout</string>
+    <string name="boxOne">Box One</string>
+    <string name="boxTwo">Box Two</string>
+    <string name="boxThree">Box Three</string>
+    <string name="boxFour">Box Four</string>
+    <string name="boxFive">Box Five</string>
+    <string name="buttonRed">RED</string>
+    <string name="buttonYellow">YELLOW</string>
+    <string name="buttonGreen">GREEN</string>
+    <string name="howToPlay">How to play</string>
+    <string name="tapTheBoxesAndButtons">Tap the screen and buttons</string>
+</resources>
